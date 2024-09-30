@@ -21,7 +21,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: jae-hyung-ju
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -29,10 +29,10 @@ darkmode: false
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,10 +44,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/me_240623_website.jpg
+about_title: About
+about_profile_image: images/me_240623_website.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a first year ECE PhD candidate at Georgia Tech.
+  I am a first year ECE PhD candidate at Georgia Tech advised by Prof. Sung-Kyu Lim. 
 #, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 #
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
