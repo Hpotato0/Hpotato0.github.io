@@ -31,10 +31,10 @@ linkedin_username: jae-hyung-ju
 orcid_username: 0009-0007-8401-0773
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: google scholar
+  icon: fas fa-globe
+  url: https://scholar.google.com/citations?user=0bATY0wAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -96,7 +96,7 @@ content:
         sub_title: Research Intern
         caption: Apr 2024 - Jul 2024
         description: | # this will include new lines to allow paragraphs
-            - Designed and implemented the initial structure of a new Fully Homomorphic Encryption (FHE) library, with a focus on enabling easy integration of existing/future optimizations and FHE algorithms. (C++, CUDA)
+            - Designed and implemented the initial structure of a new Fully Homomorphic Encryption (FHE) library, with a focus on enabling easy integration of existing/future optimizations. (C++, CUDA)
             - Optimized the latency of Llama2 and ResNet18 within FHE.
 
   - title: Publications # Title for the section
