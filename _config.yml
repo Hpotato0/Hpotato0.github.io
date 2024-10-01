@@ -81,10 +81,10 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2024--Current **Georgia Institute of Technology**, Atlanta, United States
+      - 2024--Current **Georgia Institute of Technology**, Atlanta, United States \\
         PhD in Electrical and Computer Engineering
 
-      - 2018--2024 **Seoul National University (SNU)**, Seoul, South Korea
+      - 2018--2024 **Seoul National University (SNU)**, Seoul, South Korea \\ß
         BS in Electrical and Computer Engineering
 
   - title: Work Experience # Title for the section
