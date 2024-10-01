@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 about_title: About
-about_profile_image: images/me_240623_website.jpeg
+about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
   I am a first-year Electrical and Computer Engineering PhD candidate at [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/), advised by Professor [Sung-Kyu Lim](https://limsk.ece.gatech.edu/). I am currently interested in computer architecture and the co-design of system and technology.
 
