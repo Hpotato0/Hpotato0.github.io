@@ -49,7 +49,7 @@ additional_links:
 about_title: About
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a first-year Electrical and Computer Engineering PhD candidate at [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/), advised by Prof. [Sung-Kyu Lim](https://limsk.ece.gatech.edu/). I am currently interested in computer architecture and the co-optimization of system and technology.
+  I am a first-year Electrical and Computer Engineering PhD candidate at [Georgia Tech Computer-Aided Design Lab (GTCAD)](https://gtcad.gatech.edu/), advised by Prof. [Sung-Kyu Lim](https://limsk.ece.gatech.edu/). I am currently interested in computer architecture and the co-optimization of system and technology.
 
   I received my BS from Seoul National University, where I was advised by Prof. [Jung Ho Ahn](https://scale.snu.ac.kr/members/) on accelerating Fully Homomorphic Encryption, and by Prof. [Jinho Lee](https://iamjinholee.github.io/jinho.html) on designing a DRAM function-in-memory for efficient graph processing.
 
