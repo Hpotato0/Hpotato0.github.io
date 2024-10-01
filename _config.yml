@@ -49,9 +49,9 @@ additional_links:
 about_title: About
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a first-year Electrical and Computer Engineering PhD candidate at [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/), advised by Professor [Sung-Kyu Lim](https://limsk.ece.gatech.edu/). I am currently interested in computer architecture and the co-design of system and technology.
+  I am a first-year Electrical and Computer Engineering PhD candidate at [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/), advised by Prof. [Sung-Kyu Lim](https://limsk.ece.gatech.edu/). I am currently interested in computer architecture and the co-optimization of system and technology.
 
-  I received my BS from Seoul National University, where I was advised by Professor [Jung Ho Ahn](https://scale.snu.ac.kr/members/) on accelerating Fully Homomorphic Encryption, and by Professor [Jinho Lee](https://iamjinholee.github.io/jinho.html) on designing a DRAM function-in-memory for efficient graph processing.
+  I received my BS from Seoul National University, where I was advised by Prof. [Jung Ho Ahn](https://scale.snu.ac.kr/members/) on accelerating Fully Homomorphic Encryption, and by Prof. [Jinho Lee](https://iamjinholee.github.io/jinho.html) on designing a DRAM function-in-memory for efficient graph processing.
 
   You can view my CV [here](CV_2408.pdf).
 #, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
